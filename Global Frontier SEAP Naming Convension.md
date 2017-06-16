@@ -1,6 +1,6 @@
 # Global Frontier SEAP Naming Convension
 
-Below naming convention is expected to be followed for Monsanto Global Salesforce SE Project. If developer comes across any new types other than listed below, naming convention has to be first agreed within the team and document should be updated and circulated. All development objects should be prefixed with module name e.g SFA and suffixed by its type if required.
+Below naming convention is expected to be followed for Monsanto Global Salesforce SE Project. If developer comes across any new types other than listed below, naming convention has to be first agreed within the team and document should be updated and circulated. All development objects should be prefixed with module name e.g SFA and suffixed by its type if required updated.
 
 This will help in identifying what belongs to specific application and helps in changeset creation as well
 
