@@ -2,7 +2,7 @@ Exception Handling
 
 
 Handling Exception is writing a code to gracefully recover from an error. 
-	You "try" to run your code. If there is an exception, you "catch" it and can run some code, then you can "finally" run some code whether you had an exception or not.
+	You "try" to run your code. If there is an exception, you "catch" it and can run some code, then you can "finally" run some code whether you had an exception or not updated.
 
   - How to catch Exception
   - How to show Exception message
